@@ -84,15 +84,22 @@ img{
 
 
  /* Skills Sections */
+.skills-container{
+    background: #4b556b;
+}
 
+ 
 
 
 
   /* About Me  Section */
-
-
+.about-me-container{
+    background: #2d313d;
+}
 
 
   /* Contact/Footer Section */
+.contact-container{
 
+}
 
