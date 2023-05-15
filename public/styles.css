@@ -15,7 +15,7 @@ section{
     padding: 200px 20vw;
 } 
 
-img{
+.layer-svg{
     width: 100%;
 }
 
@@ -99,7 +99,5 @@ img{
 
 
   /* Contact/Footer Section */
-.contact-container{
 
-}
 
