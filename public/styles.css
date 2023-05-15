@@ -88,10 +88,49 @@ section{
  /* Client Project Section */
  .cps-container{
     background: #12104b;
-    
+    padding-top: 3rem;
+    padding-bottom: 19rem;
  }
 
+ .cps-header{
+    text-align: center;
+    font-weight: 700;
+    font-size: 60px;
+    margin-right: 8rem;
+ }
 
+ .project-header{
+    font-size: 40px;
+    text-align: center;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    margin-right: 8rem;
+ }
+
+ .pic-summary-together{
+    display: flex;
+ }
+
+ .summary-section{
+    margin-left: 12rem;
+    margin-right: 3rem;
+ }
+
+ .church-photo{
+    width: 500px;
+    height: 250px;
+    margin-left: 8rem;
+    border-radius: 10px;
+ }
+
+ .before-pic{
+    position: relative;
+ }
+
+ .after-pic{
+    position: absolute;
+    transform: translate(-115%, 90%);
+ }
 
 
  /* Personal Project Section  */
