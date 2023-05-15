@@ -1,7 +1,24 @@
 body{
     margin: 0;
-    
+    font-family: "Lato", sans-serif;
+    color: aliceblue;
+    background: #202731;
+    overflow-x: hidden;
 }
+
+section{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 400px;
+    padding: 200px 20vw;
+} 
+
+img{
+    width: 100%;
+}
+
 
 /* Navbar Homepage */
 
@@ -11,7 +28,7 @@ body{
 }
 
 .navbar-brand{
-    font-family: "Lato", sans-serif;
+    
     font-weight: 700;
 }
 
@@ -27,7 +44,7 @@ body{
 
 .navbar{
     padding-top: 1.1rem;
-    padding: 1.1rem;
+    padding: 1rem;
 }
 
 .navbar-nav{
@@ -44,14 +61,26 @@ body{
 
 
 
+.home-container{
+     
+     background: #202731;
+}
+
+
+
  /* Client Project Section */
+ .cps-container{
+    background: #12104b;
+    
+ }
 
 
 
 
  /* Personal Project Section  */
-
-
+.pps-container{
+   background: #0f1930;
+}
 
 
  /* Skills Sections */
@@ -67,4 +96,3 @@ body{
   /* Contact/Footer Section */
 
 
-  
