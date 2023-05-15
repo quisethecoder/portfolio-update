@@ -23,18 +23,17 @@ section{
 /* Navbar Homepage */
 
 .branding{
-    margin-left: 100px;
+    margin-left: 11rem;
     display: flex;
 }
 
 .navbar-brand{
-    
     font-weight: 700;
 }
 
 
 .nav-link{
-    margin-left: 20px;
+    margin-left: 2rem;
     color: white;
 }
 
@@ -48,7 +47,7 @@ section{
 }
 
 .navbar-nav{
-    margin-left: 30rem;
+    margin-left: 18rem;
 }
 
 .navbar-collapse{
@@ -62,6 +61,9 @@ section{
      align-items: center;
      justify-content: center;
      background: #202731;
+     margin-right: 10rem;
+     padding-top: 3rem;
+     padding-bottom: 3rem;
 }
 
 .header{
@@ -79,6 +81,7 @@ section{
 .marquise-pic{
     width: 250px;
     height: 250px;
+    
 }
 
 
