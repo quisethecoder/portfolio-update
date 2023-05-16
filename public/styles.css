@@ -241,5 +241,29 @@ body{
 }
 
   /* Contact/Footer Section */
+  .contact-container{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-bottom: 5rem;
+  }
 
+  .contact-me-header{
+    font-weight: 700;
+    font-size: 60px;
+  }
+
+a.ref:link, a.ref:visited{
+   background-color: rgb(13, 27, 75);
+   color: bisque;
+   padding: 14px 25px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   border-radius: 25px;
+}
+
+a.ref:hover, a.ref:active{
+    background-color: rgb(28, 32, 72);
+}
 
