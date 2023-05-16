@@ -200,6 +200,10 @@ body{
     font-size: 60px;
 }
 
+.front-end-logo, .back-end-logo, .other-tools-logo{
+    width: 7%;
+    border-radius: 10px;
+}
 
 
   /* About Me  Section */
