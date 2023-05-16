@@ -131,6 +131,7 @@ section{
     height: 250px;
     margin-left: 8rem;
     border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
  }
 
  .before-pic{
@@ -146,6 +147,46 @@ section{
  /* Personal Project Section  */
 .pps-container{
    background: #0f1930;
+   padding-top: 1rem;
+   padding-bottom: 7rem;
+}
+
+.card{
+    background: rgb(50, 51, 70);
+    border: 1px solid transparent;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    
+}
+
+.card-title{
+    color: white;
+    text-align: center;
+}
+
+.card-styling-one{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.card-styling-two{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+
+.pj-pic{
+    height: 175px;
+}
+
+.lan-used{
+    color: rgb(124, 197, 106);
+    font-size: 20px;
 }
 
 
