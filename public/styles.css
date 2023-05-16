@@ -219,15 +219,31 @@ body{
     margin-bottom: 5rem;
 }
 
-.pictures{
+.pictures-one{
     display: flex;
+    justify-content: center;
+    align-items: center;
+    
 }
 
-.about-pics{
-    width: 200px;
+.about-pics-one{
+    width: 250px;
     height: 150px;
+    border-radius: 10px;
 }
 
+.pictures-two{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.about-pics-two{
+    width: 250px;
+    height: 150px;
+    border-radius: 10px;
+}
 
   /* Contact/Footer Section */
 
