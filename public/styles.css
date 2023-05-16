@@ -191,6 +191,13 @@ body{
  /* Skills Sections */
 .skills-container{
     background: #4b556b;
+    padding-bottom: 1rem;
+}
+
+.skills-header{
+    text-align: center;
+    font-weight: 700;
+    font-size: 60px;
 }
 
 
