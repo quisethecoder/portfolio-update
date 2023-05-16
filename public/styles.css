@@ -193,13 +193,39 @@ body{
     background: #4b556b;
 }
 
- 
-
 
 
   /* About Me  Section */
 .about-me-container{
     background: #2d313d;
+    padding-bottom: 2rem;
+}
+
+.about-me-header, .about-header-two{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-weight: 700;
+    font-size: 60px;
+    margin-bottom: 2rem;
+}
+
+.about-me-paragraph{
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    margin-bottom: 5rem;
+}
+
+.pictures{
+    display: flex;
+}
+
+.about-pics{
+    width: 200px;
+    height: 150px;
 }
 
 
