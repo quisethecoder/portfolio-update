@@ -23,7 +23,7 @@ section{
 /* Navbar Homepage */
 
 .branding{
-    margin-left: 11rem;
+    margin-left: 5rem;
     display: flex;
 }
 
@@ -47,7 +47,7 @@ section{
 }
 
 .navbar-nav{
-    margin-left: 18rem;
+    margin-left: 28rem;
 }
 
 .navbar-collapse{
@@ -61,7 +61,6 @@ section{
      align-items: center;
      justify-content: center;
      background: #202731;
-     margin-right: 10rem;
      padding-top: 3rem;
      padding-bottom: 3rem;
 }
@@ -89,14 +88,14 @@ section{
  .cps-container{
     background: #12104b;
     padding-top: 3rem;
-    padding-bottom: 19rem;
+    padding-bottom: 7rem;
  }
 
  .cps-header{
     text-align: center;
     font-weight: 700;
     font-size: 60px;
-    margin-right: 8rem;
+    
  }
 
  .project-header{
@@ -104,7 +103,12 @@ section{
     text-align: center;
     padding-top: 4rem;
     padding-bottom: 4rem;
-    margin-right: 8rem;
+ }
+
+ .bef-aft-p{
+    text-align: center;
+    margin-right: 40rem;
+    font-size: 20px;
  }
 
  .pic-summary-together{
@@ -114,6 +118,12 @@ section{
  .summary-section{
     margin-left: 12rem;
     margin-right: 3rem;
+ }
+
+ .summary-paragraph{
+    margin-top: 1rem;
+    margin-bottom: 4rem;
+    line-height: 2;
  }
 
  .church-photo{
