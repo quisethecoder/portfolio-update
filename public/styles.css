@@ -191,6 +191,7 @@ body{
  /* Skills Sections */
 .skills-container{
     background: #4b556b;
+    padding-top: 1rem;
     padding-bottom: 1rem;
 }
 
@@ -200,9 +201,23 @@ body{
     font-size: 60px;
 }
 
+.logo-description{
+    font-size: 20px;
+    margin-left: 16rem;
+}
+
+.skills-logo{
+    justify-content: center;
+    align-items: center;
+    margin-left: 12rem;
+}
+
 .front-end-logo, .back-end-logo, .other-tools-logo{
     width: 7%;
-    border-radius: 10px;
+    border-radius: 10px; 
+    margin-left: 3rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
 
 
