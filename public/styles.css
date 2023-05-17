@@ -74,6 +74,10 @@ body{
     
 }
 
+@media screen and (max-width: 984px){
+    
+}
+
 
  /* Client Project Section */
  .cps-container{
@@ -133,6 +137,34 @@ body{
     position: absolute;
     transform: translate(-115%, 90%);
  }
+
+ @media screen and (max-width: 984px){
+
+    .bef-aft-p{
+        text-align: center;
+        margin-right: 1rem;
+        font-size: 20px;
+     }
+    
+    .church-photo{
+        width: 500px;
+        height: 250px;
+        margin-left: 10rem;
+        border-radius: 10px;
+        box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+     }
+    
+    .pic-summary-together{
+        display: inline-block;
+    }
+
+        .summary-section{
+            margin-top: 20rem;
+            margin-left: 10rem;
+            margin-right: 10rem;
+         }
+ }
+
 
 
  /* Personal Project Section  */
@@ -218,6 +250,29 @@ body{
     margin-left: 3rem;
     margin-top: 2rem;
     margin-bottom: 2rem;
+}
+
+@media screen and (max-width: 984px){
+
+    .logo-description{
+        font-size: 20px;
+        margin-left: 10rem;
+    }
+
+    .skills-logo{
+        justify-content: center;
+        align-items: center;
+        margin-left: 7rem;
+    }
+
+    .front-end-logo, .back-end-logo, .other-tools-logo{
+        width: 7%;
+        border-radius: 10px; 
+        margin-left: 2rem;
+        margin-top: 1rem;
+        margin-bottom: 2rem;
+    }
+
 }
 
 
