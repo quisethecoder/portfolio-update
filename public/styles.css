@@ -588,7 +588,7 @@ a {
 @media (min-width: 761px) and (max-width: 1100px) {
   .shots img {
     height: auto;
-    aspect-ratio: 598 / 980; /* the widest screenshot, so cover only ever trims the bottom */
+    aspect-ratio: 598 / 900; /* the widest screenshot, so cover only ever trims the bottom */
   }
 }
 
